@@ -1,0 +1,16 @@
+PODS:
+  - SimpleCheckbox (2.1.0)
+
+DEPENDENCIES:
+  - SimpleCheckbox
+
+SPEC REPOS:
+  trunk:
+    - SimpleCheckbox
+
+SPEC CHECKSUMS:
+  SimpleCheckbox: ddcd433ab8c3a8f57300bebda13151a8f302c7f9
+
+PODFILE CHECKSUM: 9f6ce0673703ae09cabab4fe1892d98cfc6468f7
+
+COCOAPODS: 1.11.2
